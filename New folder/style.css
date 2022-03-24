@@ -11,4 +11,9 @@ body{
     background-color: #C7EEFF;
     padding:px;
     border-radius: 50%;
+}.hero-area{
+    background-color: #E5EFC1;
+    padding: 20px;
+}.last-part{
+    background-color: #A2D5AB;
 }
