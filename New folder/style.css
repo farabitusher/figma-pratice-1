@@ -7,3 +7,8 @@ body{
     /* background-color: aquamarine; */
     font-family: 'Poppins', sans-serif;
 }
+.ul-list{
+    background-color: #C7EEFF;
+    padding:px;
+    border-radius: 50%;
+}
