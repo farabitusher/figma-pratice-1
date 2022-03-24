@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&family=Mochiy+Pop+One&family=Poppins:wght@300;400;600;700&family=Roboto:wght@400;500;700;900&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Mochiy Pop One', sans-serif;
+}
+*{
+    /* background-color: aquamarine; */
+    font-family: 'Poppins', sans-serif;
+}
